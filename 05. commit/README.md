@@ -13,3 +13,8 @@ git commit --amend
 
 - 이전 커밋에서 잊었던 변경사항이나 파일을 포함 > 변경사항이나 파일을 포함하고 싶으면 해당 파일을 스테이지에 올려 두고 실행
 - 커밋 메시지를 다시 실행
+
+## .gitignore
+
+- Git 이 추적을 제외하고자 하는 파일 및 폴더를 나열
+- [gitignore.io](https://www.toptal.com/developers/gitignore/)
