@@ -8,3 +8,5 @@
 ### 03. intallration
 
 ### [04. Git basic](04.%20Git%20basic/README.md)
+
+### [05. commit](05.%20commit/README.md)
