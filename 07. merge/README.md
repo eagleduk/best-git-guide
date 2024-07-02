@@ -23,3 +23,26 @@ git merge <branch-name>
 ```shell
 git merge <branch-name>
 ```
+
+### conflict merge
+
+- 충돌 병합 커밋
+- 합치고자 하는 `branch` 에서 수행
+- 가져오고자 하는 `branch`에 커밋이 있고 가져올 `branch`에 커밋이 있을 때
+- 가져오고자 하는 `branch`와 가져올 `branch`의 수정 사항에 대하여 서로 중복될 때
+- `Git`에서 충돌되는 부분에 대하여 표시
+
+  ```text
+  <<<<<<<<<<< HEAD
+  ABD
+  ==========
+  BNF
+  >>>>>>>>>>> [branch-name]
+  ```
+
+- 직접 파일을 확인하여 적용하고자 하는 내용으로 수정
+- 충돌 파일에 대한 변경 사항을 적용하고 커밋
+
+```shell
+git merge <branch-name>
+```
