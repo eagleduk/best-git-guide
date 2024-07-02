@@ -1,1 +1,2 @@
 This is fast-forword merge Test.
+This is merge Test.
