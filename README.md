@@ -12,3 +12,5 @@
 ### [05. commit](05.%20commit/README.md)
 
 ### [06. branch](06.%20branch/README.md)
+
+### [07. merge](07.%20merge/README.md)
