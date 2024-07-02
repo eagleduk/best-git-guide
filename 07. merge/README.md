@@ -46,3 +46,5 @@ git merge <branch-name>
 ```shell
 git merge <branch-name>
 ```
+
+### [Exercise](https://plum-poppy-0ea.notion.site/Git-Merging-Exercise-0236a17f04c847159a38f5efa978ce2c)
