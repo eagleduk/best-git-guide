@@ -1,1 +1,2 @@
 This text line write in master branch.
+This text line write in conflict-merge branch.
