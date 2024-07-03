@@ -54,3 +54,5 @@ git stash drop <stash@{}>
 ```
 
 - 입력한 `stash`의 항목을 제거한다.
+
+### [Exercise](https://plum-poppy-0ea.notion.site/Stashing-Exercise-b6b4ac460c0a4798845de177fc1eb86d)
