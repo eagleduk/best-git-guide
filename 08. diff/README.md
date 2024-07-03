@@ -19,7 +19,7 @@ git diff HEAD
 ### stage
 
 ```shell
-git diff --stage
+git diff --staged
 ```
 
 ```shell
@@ -70,3 +70,5 @@ git diff commit1 commit2
 - 명시한 `commit` 간에 변경사항을 보여준다.
 - 명시 순서에 따라 변경사항 내용이 달라진다.
 - `commit` 의 _hash_ 값으로 비교 한다.
+
+### [Exercise](https://plum-poppy-0ea.notion.site/Git-Diff-Exercise-f7829bd2783940cea14239022a6c37a9)
