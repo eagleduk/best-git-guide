@@ -16,3 +16,5 @@
 ### [07. merge](07.%20merge/README.md)
 
 ### [08. diff](08.%20diff/README.md)
+
+### [09. stash](09.%20stash/README.md)
