@@ -71,3 +71,5 @@ git revert <commit-hash | HEAD~n>
 - 명시된 커밋까지의 변경사항을 취소하고 상태를 되돌리는 새로운 커밋을 생성한다.
 - 커밋을 삭제하게되면 협업에서의 문제가 발생하기 때문에 새로이 커밋을 수행한다.
 - 변경사항을 되돌리게 되면 `conflict` 가 발생할 수 있다.
+
+## [Exercise](https://plum-poppy-0ea.notion.site/Undoing-Things-Exercise-d2fc1825dcc047c291a9a960848fdf71)
