@@ -42,3 +42,5 @@ git push -u <remote-name> <branch | local-branch:git-repository-branch>
 
 - `git` upstream 설정
 - 최소 `-u` 옵션을 사용하여 `push` 시 `remote-name` 과 `branch` 정보는 저장하여 `git push` 단축어를 사용할 수 있게 한다.
+
+### [Exercise](https://plum-poppy-0ea.notion.site/Github-Basics-Exercise-1c12200326db47d7890702017602d698)
