@@ -32,3 +32,5 @@
 ### [15. rebase](15.%20rebase/README.md)
 
 ### [16. interactive rebase](16.%20interactive%20rebase/README.md)
+
+### [17. tags](17.%20tags/README.md)
