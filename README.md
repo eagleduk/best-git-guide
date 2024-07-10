@@ -30,3 +30,5 @@
 ### [14. collaboration](14.%20collaboration/README.md)
 
 ### [15. rebase](15.%20rebase/README.md)
+
+### [16. interactive rebase](16.%20interactive%20rebase/README.md)
