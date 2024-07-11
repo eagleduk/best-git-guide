@@ -38,3 +38,5 @@
 ### [18. hashing](18.%20hashing/README.md)
 
 ### [19. reflog](19.%20reflog/README.md)
+
+### [20. alias](20.%20alias/README.md)
